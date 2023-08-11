@@ -1,0 +1,37 @@
+,hizmet_türleri,fiyat_tl,adet,metre(m),metre_kare(m2),metre_kup(m3),ucretsiz,tatlicak_santiyesinden_20_Km_uzakliga_kadar(20_km_dahil),tatlicak_santiyesinden_20 Km_uzakliliktan_sonra_her_5_Km_için,20_parca_dahil_20_parçaya_kadar,20_parca__sonra_her_10_parca_icin,20_parca_dahil_20_parçaya_kadar_1_ile_7_gun_dahil,20_parcayi_gecen_her_10_parca_icin_1_ile_7_gun_dahil
+0,yagmur rogari bozma ucreti,624,+,0,0,0,0,0,0,0,0,0,0
+1,yagmursuyu kanali bozmaucreti,388,0,+,0,0,0,0,0,0,0,0,0
+2,yol yipranma bedeli,9,0,0,+,0,0,0,0,0,0,0,0
+3,bordur ve oluklarin yipranma bedeli,9,0,0,+,0,0,0,0,0,0,0,0
+4,yollarda ve tretuvarlarda kazi yapilmasi ve moloz nakli,52,0,0,0,+,0,0,0,0,0,0,0
+5,kirma tas dolgu temini ve sikistirilmasi,55,0,0,0,+,0,0,0,0,0,0,0
+6,asfalt yama altina 20 cm kalinlikta beton yapilmasi,47,0,0,+,0,0,0,0,0,0,0,0
+7,sicak asfalt kaplama,85,0,0,+,0,0,0,0,0,0,0,0
+8,beton kaplama,58,0,0,+,0,0,0,0,0,0,0,0
+9,betonarne parke kaplama,73,0,0,+,0,0,0,0,0,0,0,0
+10,karo kaplama,110,0,0,+,0,0,0,0,0,0,0,0
+11,kup granit kaplama,242,0,0,+,0,0,0,0,0,0,0,0
+12,andezit kaplama,242,0,0,+,0,0,0,0,0,0,0,0
+13,fonolit kaplama,242,0,0,+,0,0,0,0,0,0,0,0
+14,granit kaplama,242,0,0,+,0,0,0,0,0,0,0,0
+15,beton bordur ve yagmurlugu,44,0,+,0,0,0,0,0,0,0,0,0
+16,"andezit, granit, fonolit bordur ve yamurlugu",74,0,+,0,0,0,0,0,0,0,0,0
+17,asfalt boyasi tahribat bedeli,44,0,0,+,0,0,0,0,0,0,0,0
+18,çim tahrip bedeli,19,0,0,+,0,0,0,0,0,0,0,0
+19,toprak yol kaplama,0,0,0,0,0,+,0,0,0,0,0,0
+20,stabilize yol kaplama,0,0,0,0,0,+,0,0,0,0,0,0
+21,altyapi kazi ruhsat belge ucreti,66,+,0,0,0,0,0,0,0,0,0,0
+22,kamyonet ile levha nakli (tatlicak santiyesinden 20 km uzakliga kadar) ucreti,244,0,0,0,0,0,+,0,0,0,0,0
+23,kamyonet ile levha nakli (tatlicak santiyesinden 20 km uzakliliktan sonra her 5 km için) ucreti,66,0,0,0,0,0,0,+,0,0,0,0
+24,"sehir içinde yapilan çalismalarda i̇saretleme(yukleme indirme,yerlestirme,toplama) (20 parça dahil, 20 parçaya kadar) ucreti",74,0,0,0,0,0,0,0,+,0,0,0
+25,"sehir içinde yapilan çalismalarda isaretleme (yukleme indirme,yerlestirme,toplama) (20 parçayi geçtik ten sonra her 10 parça için) ucreti",36,0,0,0,0,0,0,0,0,+,0,0
+26,"emniyet ve bilgilendirme levhalarinin haftalik kira (20 parça dahil, 20 parçaya kadar, 1 ile 7 gun dahil) ucreti",176,0,0,0,0,0,0,0,0,0,+,0
+27,"emniyet ve bilgilendirme levhalarinin haftalik kira (20 parçayi geçen her 10 parça için, 1 ile 7 gun dahil) ucreti",88,0,0,0,0,0,0,0,0,0,0,+
+28,yol bariyeri (polietilen) ucreti,439,+,0,0,0,0,0,0,0,0,0,0
+29,trafik yonlendirme levhasi ucreti (60'lik),161,+,0,0,0,0,0,0,0,0,0,0
+30,trafik ikaz levhasi ucreti (60'lik),161,+,0,0,0,0,0,0,0,0,0,0
+31,trafik ikaz lambasi ucreti,133,+,0,0,0,0,0,0,0,0,0,0
+32,trafik çalisma dubasi ucreti (60'lik)),106,+,0,0,0,0,0,0,0,0,0,0
+33,trafik çalisma dubasi ucreti (90'lik)),140,+,0,0,0,0,0,0,0,0,0,0
+34,çalisma levhasi ucreti (80-60'lik),209,+,0,0,0,0,0,0,0,0,0,0
+35,bilgilendirme levhasi ucreti,521,+,0,0,0,0,0,0,0,0,0,0
